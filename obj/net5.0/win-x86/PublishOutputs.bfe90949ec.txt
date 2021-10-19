@@ -1,0 +1,2 @@
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.pdb
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.exe

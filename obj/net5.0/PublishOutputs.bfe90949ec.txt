@@ -1,0 +1,5 @@
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.exe
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.dll
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.deps.json
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.runtimeconfig.json
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\net5.0\publish\monJustePrix.pdb

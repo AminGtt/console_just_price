@@ -1,0 +1,16 @@
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.exe
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.deps.json
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.runtimeconfig.json
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.runtimeconfig.dev.json
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.dll
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\ref\monJustePrix.dll
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\bin\Debug\net5.0\monJustePrix.pdb
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.csproj.AssemblyReference.cache
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.AssemblyInfoInputs.cache
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.AssemblyInfo.cs
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.dll
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\ref\monJustePrix.dll
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.pdb
+C:\Users\Gato\Desktop\mes_projets\.NET\monJustePrix\obj\Debug\net5.0\monJustePrix.genruntimeconfig.cache
